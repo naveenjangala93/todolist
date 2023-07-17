@@ -1,0 +1,11 @@
+{
+  "users": [
+    {
+      "Username": "naveen",
+      "dateOfBirth": "2023-07-20",
+      "gender": "male",
+      "state": "telangana",
+      "id": 1
+    }
+  ]
+}

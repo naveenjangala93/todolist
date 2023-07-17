@@ -1,0 +1,16 @@
+
+.hi{
+    padding: 10px;
+    border-radius: 6px;
+     color: red;
+    background-color: aqua;
+}
+.chitti{
+    /* display: block; */
+    color: rgb(74, 230, 22);
+    text-align:center;
+    background-color:rgb(59, 59, 140);
+    width: auto;
+
+
+}
